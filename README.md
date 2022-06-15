@@ -1,2 +1,2 @@
-# goland_hands_on
-Go言語ハンズオンの練習
+# go_hands_on
+書籍Go言語ハンズオンの練習
